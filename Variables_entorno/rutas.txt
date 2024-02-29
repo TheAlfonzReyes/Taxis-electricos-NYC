@@ -1,0 +1,20 @@
+estaciones_carga = '/content/drive/MyDrive/Proyecto final/Electric and Alternative Fuel Charging Stations.csv'
+
+estaciones_carga_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/Estaciones de carga /Electric and Alternative Fuel Charging Stations_general_limpio'
+
+archivo_cng_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/cng/cng'
+
+archivo_lpg_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/lpg/lpg'
+
+archivo_bd_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/bd/bd'
+
+archivo_e85_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/e85/e85'
+
+archivo_lng_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/lng/lng'
+
+archivo_hy_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/hy/hy'
+
+archivo_elec_limpio = '/content/drive/MyDrive/Proyecto final/Datasets estaciones de carga limpios/elec/elec'
+
+
+
