@@ -1,0 +1,24 @@
+1. Millas promedio por galon de combustible
+
+* Aumentar en un 5 % las millas recorridas con respecto con respecto al semestre anterior.
+Este KPI ayuda a monitorear la eficiencia de combustible de la flota de taxis híbridos. Calcula las millas promedio por galón (o su equivalente en litros) en función de los registros de consumo de combustible y millas recorridos por cada vehículo. Establece metas para mejorar la eficiencia del combustible a lo largo del tiempo, lo que ayudará a reducir los costos operativos y a demostrar el valor de la tecnología híbrida enchufable. Tiempo de plazo 1 año
+
+(millas por galón semestre actual) < (millas por galón semestre anterior) * 0.95 
+
+
+
+2. Tiempo de carga promedio
+
+* Disminuir en un 3 % el tiempo de carga de todos los vehiculos por trimestre
+Este KPI mide cuánto tiempo pasan los vehículos en carga para mantener sus baterías eléctricas. Puedes rastrear el tiempo que tarda cada vehículo en cargar completamente su batería y calcular un promedio para toda la flota. Optimizar este tiempo de carga te ayudará a maximizar la disponibilidad de tus taxis híbridos y a minimizar el tiempo de inactividad. También puedes establecer objetivos para reducir el tiempo de carga promedio, lo que puede requerir la implementación de infraestructura de carga más eficiente o la optimización de los horarios de carga. timpo de plazo del kpi 1 año
+
+(tiempo de carga trimestre actual) < (tiempo de carga trimestre anterior) * 0.97
+
+
+
+3. Satisfaccion del cliente
+
+* Aumentar un 5 % la cantidad de reseñas positivas por semestre
+Este KPI indica el porcentaje de reseñas positivas de un semestre y lo compara con el porcentaje de reseñas positivas del semestre anterior. El plazo del KPI es de dos años. Para verificar si se cumplen los objetivos utilizamos la siguiente fórmula:
+
+[(clientes satisfechos en el semestre actual) / (clientes encuestados en el semestre actual) * 100] > [(clientes satisfechos en el semestre anterior) / (clientes encuestados en el semestre anterior) * 100 * 1.05]
