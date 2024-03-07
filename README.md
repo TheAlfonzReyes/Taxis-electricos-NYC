@@ -56,5 +56,5 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 
 * A continuacion, se define el Stack Tecnológico
 <p align="center">
-<img src="">
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/Stack_tecnologico.png">
 </p>
