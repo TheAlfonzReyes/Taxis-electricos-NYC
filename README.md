@@ -46,10 +46,12 @@ Se realizó una matriz de correlacion referente al rendimiento de los vehiculos 
 
 <h1 align = "center">Matriz de correlacion rendimiento vehiculos hibridos enchufables</h1>
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/matriz_rendimiento_hibridos.png" width=300 height=200>
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/matriz_rendimiento_hibridos.png" width=500 height=350>
 </p>
 
- En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
+*`No hay correlacion significativa entre las variables`.*
+
+En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
 * Se definen tres KPI's
   1. Millas promedio por galón de combustible
