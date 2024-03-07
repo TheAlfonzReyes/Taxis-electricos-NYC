@@ -34,7 +34,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
   disponibilidad de cargadores electricos en la ciudad, para ver si hay suficiente disponibilidad, en el siguiente   mapa se observa la distribucion.
 
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/integrantes.png" width=400 height=250 >
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=400 height=250 >
 </p>
 
 
