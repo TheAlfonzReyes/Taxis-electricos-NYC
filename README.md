@@ -70,7 +70,7 @@ En este data lake  se van almacenar los datasets en bruto, para ello se crea un 
 
 `Cloud Functions`
 
-En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo aqui --> 
+En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/5.%20Cloud%20functions)
 
 `Big Querry`
 
