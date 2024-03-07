@@ -14,7 +14,7 @@ Con una visión de un futuro menos contaminado, ajustarse a las tendencias actua
 El proyecto se divide en tres Sprint, de una semana cada uno, se implemento la metodologia agil de Scrum, se lleva a cabao cada viener una reunion con el Product Owner para dar los avances, el equipo de trabajo esta conformado por 5 integrantes:
 
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/integrantes.png"  >
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/integrantes.png" width=100 height=100 >
 </p>
 
 
