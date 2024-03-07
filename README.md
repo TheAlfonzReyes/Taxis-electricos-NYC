@@ -58,3 +58,6 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 <p align="center">
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/Stack_tecnologico.png" width=300 height=200>
 </p>
+
+## **Sprint 2**
+Para la segunda semana se monta la infraestructura del proyecto, con pipelines para realizar el proceso de ETL automatizado, la impementacion se hace a traves de `Google Cloud` ![Google Cloud](https://img.shields.io/badge/-Docker-333333?style=flat&logo=google cloud)
