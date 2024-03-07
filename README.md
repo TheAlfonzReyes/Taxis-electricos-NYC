@@ -54,4 +54,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
   3. Satisfaccion del cliente
      Premisa: Aumentar un 5% la cantidad de reseñas positivas por semestre
 
-
+* A continuacion, se define el Stack Tecnológico
+<p align="center">
+<img src="">
+</p>
