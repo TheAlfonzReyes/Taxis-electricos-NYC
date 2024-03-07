@@ -66,7 +66,7 @@ El Workflow es el siguiente:
 
 `Cloud Storage`
 
-En este data lake  se van almacenar los datasets en bruto, para ello se crea un bucket que es un contenedor de almacenamiento, en el siguiente link se visualiza [Bucket]("https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/bucket.png")
+En este data lake  se van almacenar los datasets en bruto, para ello se crea un bucket que es un contenedor de almacenamiento, en el siguiente link se visualiza [Bucket](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/bucket.png)
 
 `Cloud Functions`
 
