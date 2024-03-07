@@ -38,7 +38,8 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
 </p>
 
-**Cómo se observa en elk mapa hay disponibilidad uniforme de estaciones de carga electrica para vehiculos.**
+
+**Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.**
 
 
 
