@@ -18,9 +18,11 @@ El proyecto se divide en tres Sprint, de una semana cada uno, se implemento la m
 </p>
 
 Los entregables del primer Sprint con el responsable y fechas se pueden visualizar en el siguiente diagrama Gantt
+<p align="center">
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png" width=300 height=200 >
+</p>
 
-
-
+https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png
 
 
 
