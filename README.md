@@ -60,5 +60,5 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 </p>
 
 ## **Sprint 2**
-Para la segunda semana se monta la infraestructura del proyecto, con pipelines para realizar el proceso de ETL automatizado, la impementacion se hace a traves de `Google Cloud` [Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+Para la segunda semana se monta la infraestructura del proyecto, con pipelines para realizar el proceso de ETL automatizado, la impementacion se hace a traves de `Google Cloud` ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 
