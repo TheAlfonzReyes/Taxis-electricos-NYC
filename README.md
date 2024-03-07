@@ -22,15 +22,17 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png" width=400 height=250 >
 </p>
 
-## **Inicio**
+## **Sprint 1**
 
-* El primer paso es hacer un Estudio a profundidad de la situacion actual, evaluar hipotesis tales como: los carros electricos deberian ser la primera opcion a tomar en cuenta, los vehiculos verdes son mas eficientes en rendimiento.
+* El primer paso es hacer un Estudio a profundidad de la situacion actual, evaluar hipotesis tales como: los 
+  carros electricos deberian ser la primera opcion a tomar en cuenta, los vehiculos verdes son mas eficientes en 
+  rendimiento.
   
 * Se define el objetivo general como:
   Estudiar grandes volumenes de datos para evaliuar la viabilidad de implementar una flota de vehiculos con   
   consumo de energia alternativaObjetivos y alcance general del proyecto
   
-* Entrando ya con la eejecucion del proyecto, se realiza un EDA preliminar, donde evalua por ejemplo la 
+* Entrando ya con la ejecucion del proyecto, se realiza un EDA preliminar, donde evalua por ejemplo la 
   disponibilidad de cargadores electricos en la ciudad, para ver si hay suficiente disponibilidad, en el siguiente   mapa se observa la distribucion.
 
 <h1 align = "center">Mapa de New York</h1>
@@ -42,6 +44,6 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 *Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.*
  en el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
-
+*##KPI's
 
 
