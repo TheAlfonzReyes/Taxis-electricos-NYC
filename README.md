@@ -40,7 +40,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 
 
 *Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.*
- en el siguiente enlace se puede ver el EDA de todos los datasets [EDA](4. EDA-ETL/)
+ en el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
 
 
