@@ -35,7 +35,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 * Entrando ya con la ejecucion del proyecto, se realiza un EDA preliminar, donde evalua por ejemplo la 
   disponibilidad de cargadores electricos en la ciudad, para ver si hay suficiente disponibilidad, en el siguiente   mapa se observa la distribucion.
 
-<h1 align = "center">Mapa de New York</h1>
+<h1 align = "center">Mapa de New York, distribucion de estaciones de carga electrica</h1>
 <p align="center">
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
 </p>
