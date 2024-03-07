@@ -70,7 +70,7 @@ En este data lake  se van almacenar los datasets en bruto, para ello se crea un 
 
 `Cloud Functions`
 
-En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function ETL](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/5.%20Cloud%20functions)
+En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function ETL](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/ETL.py)
 Cada vez que se carga un archivo en el storaged de dispara un activador que va a llamar a la cloud function y se automatiza el proceso de ETL, una vez esta hecho el ETL se crea otra cloud function para enviar automaticamente el dataset limpio a bigquerry, esa funcion se puede visualizar aqui [Cloud function Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/big_querry.py)
 
 `Big Querry`
