@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/carro.jpeg"  >
 </p>
+
 ## **Contexto**
 
 El presente proyecto busca simula una consultora de análisis de datos la cual tiene como objetivo dar acompañamiento en la toma de desciciones de negocio a una empresa de servicios de transporte de pasajeros en New York, que actualmente se encuentra operando en el sector de micros de media y larga distancia y está interesada en invertir en el sector de transporte de pasajeros con automóviles. 
