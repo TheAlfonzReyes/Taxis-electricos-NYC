@@ -40,6 +40,8 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 
 
 *Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.*
+ en el siguiente enlace se puede ver el EDA de todos los datasets [EDA](carpeta/)
+
 
 
 
