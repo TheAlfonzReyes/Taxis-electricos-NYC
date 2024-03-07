@@ -39,7 +39,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 </p>
 
 
-**Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.**
+*Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos.*
 
 
 
