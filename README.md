@@ -42,7 +42,7 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 
 
 *`Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos`.*
- en el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
+ En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
 * Se definen tres KPI's
   1. Millas promedio por galón de combustible
