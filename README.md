@@ -14,12 +14,12 @@ Con una visión de un futuro menos contaminado, ajustarse a las tendencias actua
 El proyecto se divide en tres Sprint, de una semana cada uno, se implemento la metodologia agil de Scrum, se lleva a cabao cada viener una reunion con el Product Owner para dar los avances, el equipo de trabajo esta conformado por 5 integrantes:
 
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/integrantes.png" width=300 height=200 >
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/integrantes.png" width=400 height=250 >
 </p>
 
 Los entregables del primer Sprint con el responsable y fechas se pueden visualizar en el siguiente diagrama Gantt
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png" width=300 height=200 >
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png" width=400 height=250 >
 </p>
 
 https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/gant1.png
