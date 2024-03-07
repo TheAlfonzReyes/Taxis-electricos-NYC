@@ -3,12 +3,8 @@
 <p align="center">
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/carro.jpeg"  >
 </p>
-Analizar datos de la flota de Taxis de la ciudad Nueva York y ayudar en la toma de decisiones basadas en Datos y Proyecciones de IA/ML para disminuir el CO2 como por ejemplo mayor uso de autos electricos
+El presente proyecto busca simula una consultora de análisis de datos la cual tiene como objetivo dar acompañamiento en la toma de desciciones de negocio a una empresa de servicios de transporte de pasajeros en New York, que actualmente se encuentra operando en el sector de micros de media y larga distancia y está interesada en invertir en el sector de transporte de pasajeros con automóviles. 
 
---- Roles del equipo---
---- Agregar Stack Tenologico---
+Con una visión de un futuro menos contaminado, ajustarse a las tendencias actuales y tener buena rentabilidad, se busca decidir que tipo de vehiculo seria el ideal: 100% electrico, Hibrido enchufable, otras alternativas ecologicas, o convencional. Para tomar decisiones bien fundamentadas los datos son extraídos de las recolecciones hechas por NYC Taxi and Limousine Commission y otros organismos de NYC, aparte de sets complementarios provenientes de Kaggle.
 
---- Agregar Link a drive con presentacion 1 ---
 
----Alcance del proyecto ---
---- KPIs valorados  ---
