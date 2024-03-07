@@ -83,7 +83,7 @@ En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se pued
 Cada vez que se carga un archivo en el storaged de dispara un activador que va a llamar a la cloud function y se automatiza el proceso de ETL, una vez esta hecho el ETL se crea otra cloud function para enviar automaticamente el dataset limpio a bigquerry, esa funcion se puede visualizar aqui [Cloud function Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/big_querry.py)
 
 `Big Querry`
-En esta herramienta de big data se van almacenar todos los datos para posteriormemte hacer consultas, la estructura se puede ver aqui
+En esta herramienta de big data donde se van a almacenar todos los datos para posteriormemte hacer consultas, la estructura se puede ver aqui
 [Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
 
 
