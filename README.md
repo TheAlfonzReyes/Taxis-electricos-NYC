@@ -40,8 +40,15 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
 </p>
 
-
 *`Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos`.*
+
+Se realizó una matriz de correlacion referente al rendimiento de los vehiculos hibridos enchufables.
+
+<h1 align = "center">Matriz de correlacion rendimiento vehiculos hibridos enchufables</h1>
+<p align="center">
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/matriz_rendimiento_hibridos.png" width=300 height=200>
+</p>
+
  En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
 * Se definen tres KPI's
