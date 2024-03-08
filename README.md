@@ -68,8 +68,8 @@ En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://g
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/Stack_tecnologico.png" width=300 height=200>
 </p>
 
-- Diccionario del proyecto 
-(https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Data%20Dictionary.pdf)
+
+- Diccionario del proyecto [Data Dictionary](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Data%20Dictionary.pdf)
 
 
 ## **Sprint 2**
@@ -86,8 +86,8 @@ En este data lake  se van almacenar los datasets en bruto, para ello se crea un 
 En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function ETL](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/ETL.py)
 Cada vez que se carga un archivo en el storaged de dispara un activador que va a llamar a la cloud function y se automatiza el proceso de ETL, una vez esta hecho el ETL se crea otra cloud function para enviar automaticamente el dataset limpio a bigquerry, esa funcion se puede visualizar aqui [Cloud function Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/big_querry.py)
 
-`Big Querry`
+`Big Query`
 En esta herramienta de big data donde se van a almacenar todos los datos para posteriormemte hacer consultas, la estructura se puede ver aqui
-[Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
+[Big Query](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
 
 
