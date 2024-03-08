@@ -68,6 +68,10 @@ En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://g
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/Stack_tecnologico.png" width=300 height=200>
 </p>
 
+- Diccionario del proyecto 
+(https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Data%20Dictionary.pdf)
+
+
 ## **Sprint 2**
 Para la segunda semana se monta la infraestructura del proyecto, con pipelines para realizar el proceso de ETL automatizado, la impementacion se hace a traves de ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 
