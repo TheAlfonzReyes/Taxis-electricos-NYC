@@ -90,4 +90,7 @@ Cada vez que se carga un archivo en el storaged de dispara un activador que va a
 En esta herramienta de big data donde se van a almacenar todos los datos para posteriormemte hacer consultas, la estructura se puede ver aqui
 [Big Query](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
 
+## **Sprint 3**
+Para la tercera semana como entregables principales se tiene el dashboard interactivo y el modelo de Machine Learning: el primero fue elaborado con la herramienta ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white)
+
 
