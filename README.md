@@ -91,6 +91,15 @@ En esta herramienta de big data donde se van a almacenar todos los datos para po
 [Big Query](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
 
 ## **Sprint 3**
-Para la tercera semana como entregables principales se tiene el dashboard interactivo y el modelo de Machine Learning: el primero fue elaborado con la herramienta ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white)
+Para la tercera semana como entregables principales se tiene el dashboard interactivo y el modelo de Machine Learning: el primero fue elaborado con la herramienta ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white), los modelos de Machine learnig fueron elaborados con Arboles de desicion y redes neuronales.
 
+`Dashboard`
+El dashboard de una manera interactiva muestra mediante sus graficos:
+
+
+`Modelo de Machine Learning`
+*Tráfico
+En el proyecto se busca predecir el cargo por trafico que puede tener un servicio de taxi tomando en cuenta los siguientes parametros: punto de partida, de llegada, tiempo de viaje y distancia recorrida
+
+*Precio del servicio
 
