@@ -35,14 +35,23 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 * Entrando ya con la ejecucion del proyecto, se realiza un EDA preliminar, donde evalua por ejemplo la 
   disponibilidad de cargadores electricos en la ciudad, para ver si hay suficiente disponibilidad, en el siguiente   mapa se observa la distribucion.
 
-<h1 align = "center">Mapa de New York</h1>
+<h1 align = "center">Mapa de New York, distribucion de estaciones de carga electrica</h1>
 <p align="center">
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
 </p>
 
-
 *`Cómo se observa en el mapa, hay disponibilidad uniforme de estaciones de carga eléctrica para vehículos`.*
- En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
+
+Se realizó una matriz de correlacion referente al rendimiento de los vehiculos hibridos enchufables.
+
+<h1 align = "center">Matriz de correlacion rendimiento vehiculos hibridos enchufables</h1>
+<p align="center">
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/matriz_rendimiento_hibridos.png" width=500 height=350>
+</p>
+
+*`No hay correlacion significativa entre las variables`.*
+
+En el siguiente enlace se puede ver el EDA de todos los datasets [EDA](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/4.%20EDA-ETL)
 
 * Se definen tres KPI's
   1. Millas promedio por galón de combustible
@@ -59,6 +68,10 @@ Los entregables del primer Sprint con el responsable y fechas se pueden visualiz
 <img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/Stack_tecnologico.png" width=300 height=200>
 </p>
 
+
+- Diccionario del proyecto [Data Dictionary](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Data%20Dictionary.pdf)
+
+
 ## **Sprint 2**
 Para la segunda semana se monta la infraestructura del proyecto, con pipelines para realizar el proceso de ETL automatizado, la impementacion se hace a traves de ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
 
@@ -70,8 +83,30 @@ En este data lake  se van almacenar los datasets en bruto, para ello se crea un 
 
 `Cloud Functions`
 
-En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/tree/main/5.%20Cloud%20functions)
+En estas funciones estan los Scripts que realizan el ETL a cada Dataset, se puede ver un ejemplo en el siguiente link [Cloud function ETL](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/ETL.py)
+Cada vez que se carga un archivo en el storaged de dispara un activador que va a llamar a la cloud function y se automatiza el proceso de ETL, una vez esta hecho el ETL se crea otra cloud function para enviar automaticamente el dataset limpio a bigquerry, esa funcion se puede visualizar aqui [Cloud function Big Querry](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/big_querry.py)
 
-`Big Querry`
+`Big Query`
+En esta herramienta de big data donde se van a almacenar todos los datos para posteriormemte hacer consultas, la estructura se puede ver aqui
+[Big Query](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/big_querry.png)
 
+## **Sprint 3**
+Para la tercera semana como entregables principales se tiene el dashboard interactivo y el modelo de Machine Learning: el primero fue elaborado con la herramienta ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white), los modelos de Machine learnig fueron elaborados con Arboles de desicion y redes neuronales.
+
+`Dashboard`
+El dashboard de una manera interactiva muestra mediante sus graficos:
+
+
+`Modelo de Machine Learning`
+* Tráfico
+En el proyecto se busca predecir el cargo por trafico que puede tener un servicio de taxi tomando en cuenta los siguientes parametros: punto de partida, de llegada, tiempo de viaje (min) y distancia recorrida (millas), el moselo seleccionado es un árbol de decision, ya que permite predecir una variable numerica discreta, como lo es el tipo de cargo que tiene un servicio dependiendo del trafico:
+
+  1. Sin trafico = 0
+  2. Trafico moderado = 1
+  3. Bastante trafico = 2
+para visualizar la creacion del modelo se púede ver en el siguiente link 
+
+* Precio del servicio
+Se busca predecir el costo de un servicio sin cargos en dolares, para ello se decidio implementar un modelo de árbol de regresion el cual permite predecir variables que son continuas, los parametyros de entrenamiento son: distancia recorrida (millas) y tiempo de viaje (min).-
+para visualizar la creacion del modelo se púede ver en el siguiente link
 
