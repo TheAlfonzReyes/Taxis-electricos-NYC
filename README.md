@@ -113,6 +113,6 @@ para visualizar la creacion del modelo se púede ver en el siguiente link [ML pr
 
 `Deploy`
 
-para visualizar el arvhivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
+para visualizar el archivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
 
 
