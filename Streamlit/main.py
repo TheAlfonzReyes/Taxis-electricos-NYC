@@ -19,7 +19,13 @@ def invoke_cloud_function(params, selected_modelo):
         response = requests.post(cloud_function_url, json=data)
         if response.status_code == 200:
             prediction = response.json()["prediction"]
-            st.write("La función se activó con éxito. Predicción:", prediction)
+            prediction_str = str(prediction)
+            prediction_str = prediction_str.replace('[', '').replace(']','')
+            prediccion = round(float(prediction_str),2)
+            if data["selected_modelo"] == "Predicción de cargo por tráfico":
+                st.write(f'El recargo por tráfico aproximado para este viaje será de USD {prediccion}.')
+            else:
+                st.write(f'La tarifa aproximada para este viaje será de U$D {prediccion}')
         else:
             st.write("Error al activar la función:", response.status_code)
     except Exception as e:
