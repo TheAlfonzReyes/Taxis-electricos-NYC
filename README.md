@@ -104,7 +104,8 @@ En el proyecto se busca predecir el cargo por trafico que puede tener un servici
   1. Sin trafico = 0
   2. Trafico moderado = 1
   3. Bastante trafico = 2
-para visualizar la creacion del modelo se púede ver en el siguiente link 
+para visualizar la creacion del modelo se púede ver en el siguiente link [ML predicion de cargo por trafico](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Modelos%20ML/modelo_cargo_congestion.ipynb)
+
 
 * Precio del servicio
 Se busca predecir el costo de un servicio sin cargos en dolares, para ello se decidio implementar un modelo de árbol de regresion el cual permite predecir variables que son continuas, los parametyros de entrenamiento son: distancia recorrida (millas) y tiempo de viaje (min).-
