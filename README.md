@@ -98,8 +98,13 @@ El dashboard de una manera interactiva muestra mediante sus graficos:
 
 
 `Modelo de Machine Learning`
-*Tráfico
-En el proyecto se busca predecir el cargo por trafico que puede tener un servicio de taxi tomando en cuenta los siguientes parametros: punto de partida, de llegada, tiempo de viaje y distancia recorrida
+* Tráfico
+En el proyecto se busca predecir el cargo por trafico que puede tener un servicio de taxi tomando en cuenta los siguientes parametros: punto de partida, de llegada, tiempo de viaje (min) y distancia recorrida (millas), el moselo seleccionado es un árbol de decision, ya que permite predecir una variable numerica discreta, como lo es el tipo de cargo que tiene un servicio dependiendo del trafico:
 
-*Precio del servicio
+  1. Sin trafico = 0
+  2. Trafico moderado = 1
+  3. Bastante trafico = 2
+
+* Precio del servicio
+Se busca predecir el costo de un servicio sin cargos, para ello se decidio implementar un modelo de redes neuronales
 
