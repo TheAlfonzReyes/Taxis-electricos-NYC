@@ -111,3 +111,8 @@ para visualizar la creacion del modelo se púede ver en el siguiente link [ML pr
 Se busca predecir el costo de un servicio sin cargos en dolares, para ello se decidio implementar un modelo de árbol de regresion el cual permite predecir variables que son continuas, los parametyros de entrenamiento son: distancia recorrida (millas) y tiempo de viaje (min).-
 para visualizar la creacion del modelo se púede ver en el siguiente link [ML predicion de precio de servicio](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Modelos%20ML/modelo_predecir_precio.ipynb)
 
+`Deploy`
+
+para visualizar el arvhivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
+
+
