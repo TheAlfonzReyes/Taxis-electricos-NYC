@@ -119,7 +119,6 @@ Una vez entrenados los modelos de ML, se subieron a un bucket de GCP y se creó 
 Internamente, la Cloud Function recibe el nombre del modelo y los parámetros en formato json, abre el modelo seleccionado y devuelve la predicción hacia Streamlit. En el script de la app se reciben los datos, también en formato json, y se muestran al usuario como una cadena de texto. El script de Streamlit contiene un diccionario en el que se especfican tanto el modelo seleccionado como los parámetros y la configuración de la app. La solicitud se realiza hacia la URL de la Cloud Function. hacer clic para visualizar [Cloud Function](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/5.%20Cloud%20functions/streamlit_funtion.py)
 
 En cuanto al funcionamiento de la app (deploy), en cada parámetro se especifica la unidad del mismo. El usuario debe pasar solo valores numéricos. La zona de inicio y zona de fin se identifican con un número entero del 1 al 265 y dicho número está relacionado con la distribución geográfica de los barrios de NYC.
-
-Para visualizar el archivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
+El deployment se realiza directamente desde Streamlit, vinculando un script alojado en este repositorio. Para visualizar el archivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
 
 
