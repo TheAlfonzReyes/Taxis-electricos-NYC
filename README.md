@@ -105,7 +105,7 @@ El dashboard de una manera interactiva muestra mediante sus graficos informacion
 
 <h1 align = "center">Toyota prius Prime</h1>
 <p align="center">
-<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/toyota-prius-prime-hibrido-enchufable-201626742_3.webp" width=300 height=200 alt = "Mapa de New York" >
 </p>
 
 
