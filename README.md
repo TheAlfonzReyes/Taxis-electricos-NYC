@@ -94,7 +94,19 @@ En esta herramienta de big data donde se van a almacenar todos los datos para po
 Para la tercera semana como entregables principales se tiene el dashboard interactivo y el modelo de Machine Learning: el primero fue elaborado con la herramienta ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=white), los modelos de Machine learnig fueron elaborados con Arboles de desicion y redes neuronales.
 
 `Dashboard`
-El dashboard de una manera interactiva muestra mediante sus graficos:
+El dashboard de una manera interactiva muestra mediante sus graficos informacion relevante de los precios de  vehiculos, rendimiento segun su tipo: ya sean hibridos enchifables, 100% electricos o convencionales, algunas hallazgos son:
+1. Gasto en dolares de cada tipo de vehiculo para una autonomia de 450 km:
+  * hibrido: 56.45
+  * carro 100& electrico 67.5
+   *carro convencional : 60.75
+2. Hay suficientes estaciones de carga distribuidos a lo largo de la ciudad de New York.
+3. EL vehiculo que mas se adecua a las necesidades de la empresa es el Toyota prius Prime.
+4. La autonomia combinada de dicho carro es 589 millas y su precio es 28775 dolares.
+
+<h1 align = "center">Toyota prius Prime</h1>
+<p align="center">
+<img src="https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Variables_entorno/mapa.png" width=300 height=200 alt = "Mapa de New York" >
+</p>
 
 
 `Modelo de Machine Learning`
