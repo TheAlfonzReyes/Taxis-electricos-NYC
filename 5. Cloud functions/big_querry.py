@@ -33,7 +33,7 @@ def etl_taxis(event, context):
         print(f'El archivo {archivo_nombre} ya existe en el bucket {bucket_name}. No se realizará el procesamiento.')
         return
         
-
+    # En este documento tambien realiza un ETL para posteriormente pasarlo a Bigquery organizado.
     # Obtiene una instancia del bucket
     bucket = client.get_bucket(bucket_name)
 
